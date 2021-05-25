@@ -1,2 +1,2 @@
 # Kaggle-BIPOC
-This repository contains all the necessary codes that I learnt as a Kaggle BIPOC Grantee via Kaggle learn and other sources 
+This repository contains all the necessary projects that I did as a Kaggle BIPOC Grantee.  
